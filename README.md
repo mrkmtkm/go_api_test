@@ -9,6 +9,6 @@ get post put deleteメソッドを実行して、MySQLを操作するそうな�
 
 ```
 docker-compose up
-go main.js
+go run main.js
 ```
 
